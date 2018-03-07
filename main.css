@@ -1,0 +1,95 @@
+.nav_bar{
+    background-color: #DC7420;
+}
+li a{
+    text-decoration: none;
+    color: #fff;
+    border-right: 2px solid #fff; 
+
+}
+
+a:hover{color: #fff;}
+h1,h3{
+    color: gainsboro;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+.col-1-headers h5{
+    font-size: 12px;
+    padding: 5px;
+    color: lightslategrey;
+    font-style: oblique;
+    margin-bottom: 10px;
+}
+.date-form{
+    width: 30px;
+}
+
+.sec-2{
+    margin-left: 70px;
+}
+.drp{
+    width: 250px;
+}
+
+.col6{
+    margin-left: 0;
+}
+.word-wid{
+    width: 300px;
+}
+
+.loc{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    width: 250px;
+}
+
+.drop{
+    margin-top: 7px;
+}
+
+.sec-3{
+    margin-left: 70px;
+}
+
+
+.sec-4{
+    margin-left: 870px;
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
